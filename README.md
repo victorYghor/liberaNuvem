@@ -1,7 +1,6 @@
 # LiberaNuvem
 
-LiberaNuvem é uma iniciativa voltada para mulheres de baixa renda, especialmente aquelas na faixa etária de 40 anos,
-que enfrentam desafios com a falta de espaço de armazenamento em seus dispositivos móveis.
+LiberaNuvem é uma iniciativa voltada para pessoas que enfrentam desafios com a falta de espaço de armazenamento em seus dispositivos móveis.
 Muitas dessas mulheres dependem do celular como principal ferramenta para comunicação e como local seguro para guardar fotos, 
 vídeos e informações pessoais e familiares.
 Entretanto, o orçamento limitado e o desconhecimento sobre alternativas de armazenamento acabam dificultando a gestão eficiente desse espaço.
